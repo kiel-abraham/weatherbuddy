@@ -7,11 +7,5 @@
   "editor.lineHeight": 21,
   "[astro]": {
     "editor.defaultFormatter": "astro-build.astro-vscode"
-  },
-  "typescript.updateImportsOnFileMove.enabled": "always",
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "prettier.configPath": ".prettierrc",
-  "prettier.ignorePath": ".prettierignore",
-  "prettier.documentSelectors": ["**/*.astro", "**/*.ts"],
-  "eslint.validate": ["javascript", "astro", "typescript"]
+  }
 }
